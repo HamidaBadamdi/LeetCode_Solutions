@@ -1,0 +1,23 @@
+# 🚀 LeetCode Solutions
+
+> This repository contains a curated collection of LeetCode problems solved using C, C++, Java, and Python.  
+> Each problem is implemented in a language best suited to the solution, showcasing versatility, strong problem-solving skills.
+> Designed for technical interview preparation and to demonstrate cross-language coding proficiency.
+
+
+![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=java)
+![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge)
+
+---
+
+## 📌 About This Repository
+
+This repository contains my solutions to **LeetCode problems**.
+
+🎯 Goals:
+- Improve problem-solving skills
+- Prepare for coding interviews
+- Track daily consistency
+
+---
