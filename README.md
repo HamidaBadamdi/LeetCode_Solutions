@@ -24,4 +24,5 @@ This repository contains my solutions to **LeetCode problems**.
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
 | 1 | Two Sum | 🟢 Easy | ✅ |
+| 9 | Palindrome Number | 🟢 Easy | ✅ |
 
