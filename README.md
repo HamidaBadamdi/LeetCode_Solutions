@@ -25,4 +25,6 @@ This repository contains my solutions to **LeetCode problems**.
 |---|---------|------------|--------|
 | 1 | Two Sum | 🟢 Easy | ✅ |
 | 9 | Palindrome Number | 🟢 Easy | ✅ |
+| 35 | Search Insert Position | 🟢 Easy | ✅ |
+
 
