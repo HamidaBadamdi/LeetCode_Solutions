@@ -27,6 +27,8 @@ This repository contains my solutions to **LeetCode problems**.
 | 9 | Palindrome Number | 🟢 Easy | ✅ |
 | 35 | Search Insert Position | 🟢 Easy | ✅ |
 | 125 | Valid Palindrome | 🟢 Easy | ✅ |
+| 136 | Single Number | 🟢 Easy | ✅ |
+
 
 
 
