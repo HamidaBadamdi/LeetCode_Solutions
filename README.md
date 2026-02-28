@@ -26,9 +26,11 @@ This repository contains my solutions to **LeetCode problems**.
 | 1 | Two Sum | 🟢 Easy | ✅ |
 | 7 | Reverse Integer | 🟡 Medium | ✅ |
 | 9 | Palindrome Number | 🟢 Easy | ✅ |
+| 20 | Valid Parentheses | 🟢 Easy | ✅ |
 | 35 | Search Insert Position | 🟢 Easy | ✅ |
 | 125 | Valid Palindrome | 🟢 Easy | ✅ |
 | 136 | Single Number | 🟢 Easy | ✅ |
+
 
 
 
