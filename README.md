@@ -29,6 +29,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 20 | Valid Parentheses | 🟢 Easy | ✅ |
 | 35 | Search Insert Position | 🟢 Easy | ✅ |
 | 69 | Sqrt(x) | 🟢 Easy | ✅ |
+| 121 | Best Time to Buy and Sell Stock | 🟢 Easy | ✅ |
 | 125 | Valid Palindrome | 🟢 Easy | ✅ |
 | 136 | Single Number | 🟢 Easy | ✅ |
 
