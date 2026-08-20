@@ -36,6 +36,7 @@ This repository contains my solutions to **LeetCode problems**.
 | - | Largest Element in Array | 🟢 Easy | ✅ |
 | - | Second Largest Element in Array | 🟢 Easy | ✅ |
 | - | Reverse String | 🟢 Easy | ✅ |
+| - | Vowels and Consonants in a String | 🟢 Easy | ✅ |
 
 
 
