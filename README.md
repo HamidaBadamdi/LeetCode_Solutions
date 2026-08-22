@@ -19,7 +19,7 @@ This repository contains my solutions to **LeetCode problems**.
 
 ---
 
-## 📊 LeetCode / DSA Progress
+## 📊 🧩 LeetCode Problems
 
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
@@ -33,12 +33,10 @@ This repository contains my solutions to **LeetCode problems**.
 | 125 | Valid Palindrome | 🟢 Easy | ✅ |
 | 136 | Single Number | 🟢 Easy | ✅ |
 | 217 | Contains Duplicate | 🟢 Easy | ✅ |
-| - | Largest Element in Array | 🟢 Easy | ✅ |
-| - | Second Largest Element in Array | 🟢 Easy | ✅ |
-| - | Reverse String | 🟢 Easy | ✅ |
-| - | Vowels and Consonants in a String | 🟢 Easy | ✅ |
-| - | Valid Anagram | 🟢 Easy | ✅ |
-| - | Remove Duplicate Characters | 🟢 Easy | ✅ |
+
+**Progress:** **10 / 10** Problems Solved ✅
+
+---
 
 
 
