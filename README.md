@@ -38,6 +38,7 @@ This repository contains my solutions to **LeetCode problems**.
 | - | Reverse String | 🟢 Easy | ✅ |
 | - | Vowels and Consonants in a String | 🟢 Easy | ✅ |
 | - | Valid Anagram | 🟢 Easy | ✅ |
+| - | Remove Duplicate Characters | 🟢 Easy | ✅ |
 
 
 
