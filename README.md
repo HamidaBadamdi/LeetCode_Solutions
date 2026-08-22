@@ -34,7 +34,18 @@ This repository contains my solutions to **LeetCode problems**.
 | 136 | Single Number | 🟢 Easy | ✅ |
 | 217 | Contains Duplicate | 🟢 Easy | ✅ |
 
-**Progress:** **10 / 10** Problems Solved ✅
+---
+
+## 🚀 Placement Coding Challenges
+
+| # | Problem | Difficulty | Status |
+|---|---------|------------|--------|
+| 1 | Largest Element in Array | 🟢 Easy | ✅ |
+| 2 | Second Largest Element in Array | 🟢 Easy | ✅ |
+| 3 | Reverse String | 🟢 Easy | ✅ |
+| 4 | Vowels and Consonants in a String | 🟢 Easy | ✅ |
+| 5 | Valid Anagram | 🟢 Easy | ✅ |
+| 6 | Remove Duplicate Characters | 🟢 Easy | ✅ |
 
 ---
 
