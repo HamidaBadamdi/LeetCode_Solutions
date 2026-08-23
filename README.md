@@ -46,6 +46,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 4 | Vowels and Consonants in a String | 🟢 Easy | ✅ |
 | 5 | Valid Anagram | 🟢 Easy | ✅ |
 | 6 | Remove Duplicate Characters | 🟢 Easy | ✅ |
+| 7 | Print Duplicate Characters | 🟢 Easy | ✅ |
 
 ---
 
