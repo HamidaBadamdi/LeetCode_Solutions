@@ -48,6 +48,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 6 | Remove Duplicate Characters | 🟢 Easy | ✅ |
 | 7 | Print Duplicate Characters | 🟢 Easy | ✅ |
 | 8 | Count Words in a String | 🟢 Easy | ✅ |
+| 9 | Character Frequency in a String | 🟢 Easy | ✅ |
 
 ---
 
