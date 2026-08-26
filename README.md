@@ -49,6 +49,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 7 | Print Duplicate Characters | 🟢 Easy | ✅ |
 | 8 | Count Words in a String | 🟢 Easy | ✅ |
 | 9 | Character Frequency in a String | 🟢 Easy | ✅ |
+| 10 | Maximum Frequency Character | 🟢 Easy | ✅ |
 
 ---
 
