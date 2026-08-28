@@ -51,6 +51,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 9 | Character Frequency in a String | 🟢 Easy | ✅ |
 | 10 | Maximum Frequency Character | 🟢 Easy | ✅ |
 | 11 | All Maximum Frequency Characters | 🟢 Easy | ✅ |
+| 12 | Minimum Frequency Character | 🟢 Easy | ✅ |
 
 ---
 
