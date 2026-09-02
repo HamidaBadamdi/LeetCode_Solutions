@@ -54,6 +54,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 12 | Minimum Frequency Character | 🟢 Easy | ✅ |
 | 13 | All Minimum Frequency Characters | 🟢 Easy | ✅ |
 | 14 | First Non-Repeating Character | 🟢 Easy | ✅ |
+| 15 | Largest Element in Array | 🟢 Easy | ✅ |
 
 ---
 
