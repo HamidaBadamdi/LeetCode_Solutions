@@ -1,3 +1,23 @@
+/**
+ * Problem: Find the Largest Element in an Array
+ *
+ * Objective:
+ * To find the largest element in an array using both brute force
+ * and optimized approaches in Java.
+ *
+ * Approaches:
+ * 1. Sorting the array (Brute Force)
+ * 2. Single traversal to find the maximum element (Optimal)
+ *
+ * Concepts Used:
+ * - Arrays.sort()
+ * - Array traversal
+ * - Time complexity optimization
+ *
+ * Outcome:
+ * Successfully found the largest element using both approaches
+ * and compared their efficiency.
+ */
 package placement_prep;
 
 import java.util.Arrays;
@@ -7,7 +27,7 @@ public class LargerElement {
 	//Approach 1: Brute Force - TC (n log n)
 	
 	public static int larget(int arr[])
-	{
+	{	
 		Arrays.sort(arr);
 		
 		return arr[arr.length-1];
