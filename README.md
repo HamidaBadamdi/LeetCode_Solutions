@@ -55,6 +55,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 13 | All Minimum Frequency Characters | 🟢 Easy | ✅ |
 | 14 | First Non-Repeating Character | 🟢 Easy | ✅ |
 | 15 | Largest Element in Array | 🟢 Easy | ✅ |
+| 16 | Longest Word in a String | 🟢 Easy | ✅ |
 
 ---
 
