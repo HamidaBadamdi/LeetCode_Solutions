@@ -33,6 +33,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 125 | Valid Palindrome | 🟢 Easy | ✅ |
 | 136 | Single Number | 🟢 Easy | ✅ |
 | 217 | Contains Duplicate | 🟢 Easy | ✅ |
+| 520 | Detect Capital | 🟢 Easy | ✅ |
 
 ---
 
