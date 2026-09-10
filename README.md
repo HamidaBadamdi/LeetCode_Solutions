@@ -35,6 +35,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 217 | Contains Duplicate | 🟢 Easy | ✅ |
 | 520 | Detect Capital | 🟢 Easy | ✅ |
 | 387 | First Unique Character in a String | 🟢 Easy | ✅ |
+| 1047 | Remove All Adjacent Duplicates in String | 🟢 Easy | ✅ |
 
 ---
 
