@@ -1,3 +1,24 @@
+/**
+ * Problem: Find the Second Largest Element in an Array
+ *
+ * Objective:
+ * To find the second largest unique element in an array using
+ * both brute force and optimized approaches.
+ *
+ * Approaches:
+ * 1. Sorting the array (Brute Force)
+ * 2. Single traversal to find the largest and second largest elements (Optimal)
+ *
+ * Concepts Used:
+ * - Arrays.sort()
+ * - Array traversal
+ * - Integer.MIN_VALUE
+ *
+ * Outcome:
+ * Successfully found the second largest unique element and handled
+ * edge cases such as duplicate values and small arrays.
+ */
+
 package placement_prep;
 
 import java.util.Arrays;
