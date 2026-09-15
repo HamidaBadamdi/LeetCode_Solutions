@@ -61,6 +61,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 16 | Longest Word in a String | 🟢 Easy | ✅ |
 | 17 | Check String Contains Only Digits | 🟢 Easy | ✅ |
 | 18 | Second Largest Element in Array | 🟢 Easy | ✅ |
+| 19 | Shortest Word in a String | 🟢 Easy | ✅ |
 
 ---
 
