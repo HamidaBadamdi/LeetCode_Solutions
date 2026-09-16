@@ -62,6 +62,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 17 | Check String Contains Only Digits | 🟢 Easy | ✅ |
 | 18 | Second Largest Element in Array | 🟢 Easy | ✅ |
 | 19 | Shortest Word in a String | 🟢 Easy | ✅ |
+| 20 | Replace Spaces in a String | 🟢 Easy | ✅ |
 
 ---
 
