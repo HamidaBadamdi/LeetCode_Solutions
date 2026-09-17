@@ -63,6 +63,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 18 | Second Largest Element in Array | 🟢 Easy | ✅ |
 | 19 | Shortest Word in a String | 🟢 Easy | ✅ |
 | 20 | Replace Spaces in a String | 🟢 Easy | ✅ |
+| 21 | Remove Spaces from a String | 🟢 Easy | ✅ |
 
 ---
 
