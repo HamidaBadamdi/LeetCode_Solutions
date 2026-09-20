@@ -66,6 +66,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 21 | Remove Spaces from a String | 🟢 Easy | ✅ |
 | 22 | First Uppercase Character | 🟢 Easy | ✅ |
 | 23 | ASCII Value of Characters | 🟢 Easy | ✅ |
+| 24 | Print ASCII Values of Characters | 🟢 Easy | ✅ |
 
 ---
 
