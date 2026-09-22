@@ -68,6 +68,7 @@ This repository contains my solutions to **LeetCode problems**.
 | 23 | ASCII Value of Characters | 🟢 Easy | ✅ |
 | 24 | Print ASCII Values of Characters | 🟢 Easy | ✅ |
 | 25 | Count Word Occurrences | 🟢 Easy | ✅ |
+| 26 | Count Character Types in a String | 🟢 Easy | ✅ |
 
 ---
 
